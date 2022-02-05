@@ -9,25 +9,140 @@ Five problem sets (HW, PS/RS) are assigned, which you must complete individually
 Homework Assignments
 --------------------
 
-| ASSIGNMENTS | ASSIGNMENT FILES |
-| --- | --- |
-| HW1: UI Hall of Fame and Shame | ([PDF]({{< baseurl >}}/resources/mit6_831s11_hw01)) |
-| HW2: Heuristic Evaluation | ([PDF]({{< baseurl >}}/resources/mit6_831s11_hw02)) 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+ASSIGNMENTS
+{{< thclose >}}
+{{< thopen >}}
+ASSIGNMENT FILES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+HW1: UI Hall of Fame and Shame
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/mit6_831s11_hw01))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+HW2: Heuristic Evaluation
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/mit6_831s11_hw02))
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Programming Assignments
 -----------------------
 
-| ASSIGNMENTS | ASSIGNMENT FILES | SUPPORTING FILES |
-| --- | --- | --- |
-| PS1: Implementing an HTML/Javascript Application | ([PDF - 1.1MB]({{< baseurl >}}/resources/mit6_831s11_ps01)) | ([ZIP]({{< baseurl >}}/resources/ps1-wordfinder)) (The ZIP file contains: 2 .js files, 1 .html file and 2 .json files.) |
-| PS2: Output | ([PDF]({{< baseurl >}}/resources/mit6_831s11_ps02)) | ([ZIP]({{< baseurl >}}/resources/ps2-checkerboard-output)) (The ZIP file contains: 1 .project file, 3 .js files, 1 .html file, 1 .ccs file, and 4 .png files.) |
-| PS3: Input | ([PDF]({{< baseurl >}}/resources/mit6_831s11_ps03)) |   
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+ASSIGNMENTS
+{{< thclose >}}
+{{< thopen >}}
+ASSIGNMENT FILES
+{{< thclose >}}
+{{< thopen >}}
+SUPPORTING FILES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+PS1: Implementing an HTML/Javascript Application
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF - 1.1MB]({{< baseurl >}}/resources/mit6_831s11_ps01))
+{{< tdclose >}}
+{{< tdopen >}}
+([ZIP]({{< baseurl >}}/resources/ps1-wordfinder)) (The ZIP file contains: 2 .js files, 1 .html file and 2 .json files.)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+PS2: Output
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/mit6_831s11_ps02))
+{{< tdclose >}}
+{{< tdopen >}}
+([ZIP]({{< baseurl >}}/resources/ps2-checkerboard-output)) (The ZIP file contains: 1 .project file, 3 .js files, 1 .html file, 1 .ccs file, and 4 .png files.)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+PS3: Input
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/mit6_831s11_ps03))
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Research Assignments
 --------------------
 
-| ASSIGNMENTS | ASSIGNMENT FILES |
-| --- | --- |
-| RS1: Experiment Implementation | ([PDF]({{< baseurl >}}/resources/mit6_831s11_rs01)) |
-| RS2: Data Collection | ([PDF]({{< baseurl >}}/resources/mit6_831s11_rs02)) |
-| RS3: Analysis | ([PDF]({{< baseurl >}}/resources/mit6_831s11_rs03))
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+ASSIGNMENTS
+{{< thclose >}}
+{{< thopen >}}
+ASSIGNMENT FILES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+RS1: Experiment Implementation
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/mit6_831s11_rs01))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+RS2: Data Collection
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/mit6_831s11_rs02))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+RS3: Analysis
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/mit6_831s11_rs03))
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}

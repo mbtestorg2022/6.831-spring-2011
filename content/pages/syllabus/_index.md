@@ -53,12 +53,57 @@ You may discuss assignments with other people, but you are expected to be intell
 Grading
 -------
 
-| ACTIVITIES | PERCENTAGES |
-| --- | --- |
-| Course project (GR1–GR6) | 42% |
-| Problem sets (HW, PS/RS) | 30% |
-| Nanoquizzes (unavailable on OCW) | 24% |
-| Class participation | 4% 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+ACTIVITIES
+{{< thclose >}}
+{{< thopen >}}
+PERCENTAGES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Course project (GR1–GR6)
+{{< tdclose >}}
+{{< tdopen >}}
+42%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Problem sets (HW, PS/RS)
+{{< tdclose >}}
+{{< tdopen >}}
+30%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Nanoquizzes (unavailable on OCW)
+{{< tdclose >}}
+{{< tdopen >}}
+24%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Class participation
+{{< tdclose >}}
+{{< tdopen >}}
+4%
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 The largest contribution to your grade will be the course project (42%), in which you will work in small groups to design, implement, and evaluate a user interface, through an iterative design process with a series of graded milestones (GR1–GR6). Students from 6.813 and 6.831 may work in the same group.
 

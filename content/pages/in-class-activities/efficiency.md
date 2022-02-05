@@ -10,7 +10,18 @@ The purpose of this activity is to learn more about predicting efficiency using 
 
 Suppose we're designing a form for entering an address, and we're trying to decide between the two alternative interfaces for entering a US state shown below. The interface on the left is a drop-down menu with a list of states to choose from, and the interface on the right is a text field for entering the state's 2-letter abbreviation (e.g. MA for Massachusetts).
 
-| State: select a state Alabama Arizona Arkansas California Colorado Connecticut Delaware District of Columbia Florida Georgia Idaho Illinois Indiana Iowa Kansas Kentucky Louisiana Maine Maryland Massachusetts Michigan Minnesota Mississippi Missouri Montana Nebraska Nevada New Hampshire New Jersey New Mexico New York North Carolina North Dakota Ohio Oklahoma Oregon Pennsylvania Rhode Island South Carolina South Dakota Tennessee Texas Utah Vermont Virginia Washington West Virginia Wisconsin Wyoming | State:  
+{{< tableopen >}}
+{{< tropen >}}
+{{< tdopen >}}
+State: select a state Alabama Arizona Arkansas California Colorado Connecticut Delaware District of Columbia Florida Georgia Idaho Illinois Indiana Iowa Kansas Kentucky Louisiana Maine Maryland Massachusetts Michigan Minnesota Mississippi Missouri Montana Nebraska Nevada New Hampshire New Jersey New Mexico New York North Carolina North Dakota Ohio Oklahoma Oregon Pennsylvania Rhode Island South Carolina South Dakota Tennessee Texas Utah Vermont Virginia Washington West Virginia Wisconsin Wyoming
+{{< tdclose >}}
+{{< tdopen >}}
+State: 
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Use the keystroke-level model to model the process of choosing Massachusetts using each of the following methods. Assume that the keyboard focus is already on the State field, and the user's hands are already on the device they need. Start by writing down the actions required; then assign K, B, P, H, and M labels to each action; and finally estimate the total time using the **KLM calculator** found below.
 
@@ -27,12 +38,88 @@ function recalculate() { var time = klm(get("actions").value) get("time").innerH
 
 Enter an action string below to calculate its cost in the Keystroke Level Model.
 
-| Actions:  || {{< td-colspan 2 >}}{{< /td-colspan >}} ||
-| Time:  || {{< td-colspan 2 >}}5.50 sec{{< /td-colspan >}} || {{< br >}}{{< br >}} | &nbsp; | **K**eystroke |  sec |
-| &nbsp; | **B**utton |  sec |
-| &nbsp; | **P**oint |  sec |
-| &nbsp; | **H**ome |  sec |
-| &nbsp; | **M**ental |  sec 
+{{< tableopen >}}
+{{< tropen >}}
+{{< tdopen >}}
+Actions: 
+{{< tdclose >}}
+{{< tdopen colspan="2" >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Time: 
+{{< tdclose >}}
+{{< tdopen colspan="2" >}}
+5.50 sec
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tropen >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+**K**eystroke
+{{< tdclose >}}
+{{< tdopen >}}
+ sec
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+**B**utton
+{{< tdclose >}}
+{{< tdopen >}}
+ sec
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+**P**oint
+{{< tdclose >}}
+{{< tdopen >}}
+ sec
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+**H**ome
+{{< tdclose >}}
+{{< tdopen >}}
+ sec
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+**M**ental
+{{< tdclose >}}
+{{< tdopen >}}
+ sec
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 ### References
 

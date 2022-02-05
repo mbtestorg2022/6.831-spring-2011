@@ -6,7 +6,15 @@ title: Textbooks
 uid: 499ad5c4-bb47-b4f7-21f4-366b7b010200
 ---
 
-| « Back To: [Syllabus]({{< baseurl >}}/pages/syllabus) 
+{{< tableopen >}}
+{{< tropen >}}
+{{< tdopen >}}
+« Back To: [Syllabus]({{< baseurl >}}/pages/syllabus)
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 There is no required textbook for this course.
 
@@ -56,4 +64,12 @@ Box, George E. P., William G. Hunter, et al. _Statistics for Experimenters: An I
 
 Miller, Rupert G. _Beyond Anova: Basics of Applied Statistics_. John Wiley & Sons Inc, 1986. ISBN: 9780471819226.
 
-| « Back To: [Syllabus]({{< baseurl >}}/pages/syllabus)
+{{< tableopen >}}
+{{< tropen >}}
+{{< tdopen >}}
+« Back To: [Syllabus]({{< baseurl >}}/pages/syllabus)
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
