@@ -30,7 +30,7 @@ LECTURE NOTES
 Usability
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 1.6MB]({{< baseurl >}}/resources/mit6_831s11_lec01))
+([PDF - 1.6MB]({{< baseurl >}}/resources/mit6_831s11_lec01))
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -42,7 +42,7 @@ Usability
 Learnability
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 2.1MB]({{< baseurl >}}/resources/mit6_831s11_lec02))
+([PDF - 2.1MB]({{< baseurl >}}/resources/mit6_831s11_lec02))
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -54,7 +54,7 @@ Learnability
 Visibility
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 1.3MB]({{< baseurl >}}/resources/mit6_831s11_lec03))
+([PDF - 1.3MB]({{< baseurl >}}/resources/mit6_831s11_lec03))
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -66,7 +66,7 @@ Visibility
 Efficiency
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 2.4MB]({{< baseurl >}}/resources/mit6_831s11_lec04))
+([PDF - 2.4MB]({{< baseurl >}}/resources/mit6_831s11_lec04))
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -78,7 +78,7 @@ Efficiency
 Errors and user control
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 2.4MB]({{< baseurl >}}/resources/mit6_831s11_lec05))
+([PDF - 2.4MB]({{< baseurl >}}/resources/mit6_831s11_lec05))
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -90,7 +90,7 @@ Errors and user control
 User-centered design
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 1.3MB]({{< baseurl >}}/resources/mit6_831s11_lec06))
+([PDF - 1.3MB]({{< baseurl >}}/resources/mit6_831s11_lec06))
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -102,7 +102,7 @@ User-centered design
 Task analysis
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 1.5MB]({{< baseurl >}}/resources/mit6_831s11_lec07))
+([PDF - 1.5MB]({{< baseurl >}}/resources/mit6_831s11_lec07))
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -114,7 +114,7 @@ Task analysis
 Generating designs
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 1.6MB]({{< baseurl >}}/resources/mit6_831s11_lec08))
+([PDF - 1.6MB]({{< baseurl >}}/resources/mit6_831s11_lec08))
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -126,7 +126,7 @@ Generating designs
 User interface (UI) software architecture
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 1.8MB]({{< baseurl >}}/resources/mit6_831s11_lec09))
+([PDF - 1.8MB]({{< baseurl >}}/resources/mit6_831s11_lec09))
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -138,7 +138,7 @@ User interface (UI) software architecture
 Layout
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 1.2MB]({{< baseurl >}}/resources/mit6_831s11_lec10))
+([PDF - 1.2MB]({{< baseurl >}}/resources/mit6_831s11_lec10))
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -150,7 +150,7 @@ Layout
 Output
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 1.4MB]({{< baseurl >}}/resources/mit6_831s11_lec11))
+([PDF - 1.4MB]({{< baseurl >}}/resources/mit6_831s11_lec11))
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -162,7 +162,7 @@ Output
 Input
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 1.2MB]({{< baseurl >}}/resources/mit6_831s11_lec12))
+([PDF - 1.2MB]({{< baseurl >}}/resources/mit6_831s11_lec12))
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -174,7 +174,7 @@ Input
 User testing
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 1.1MB]({{< baseurl >}}/resources/mit6_831s11_lec13))
+([PDF - 1.1MB]({{< baseurl >}}/resources/mit6_831s11_lec13))
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -186,7 +186,7 @@ User testing
 Controlled experiments
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 1.4MB]({{< baseurl >}}/resources/mit6_831s11_lec14))
+([PDF - 1.4MB]({{< baseurl >}}/resources/mit6_831s11_lec14))
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -198,7 +198,7 @@ Controlled experiments
 Experiment analysis
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 1.8MB]({{< baseurl >}}/resources/mit6_831s11_lec15))
+([PDF - 1.8MB]({{< baseurl >}}/resources/mit6_831s11_lec15))
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -210,7 +210,7 @@ Experiment analysis
 Web-scale research methods
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 1.1MB]({{< baseurl >}}/resources/mit6_831s11_lec16))
+([PDF - 1.1MB]({{< baseurl >}}/resources/mit6_831s11_lec16))
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -222,7 +222,7 @@ Web-scale research methods
 Prototyping
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 2.0MB]({{< baseurl >}}/resources/mit6_831s11_lec17))
+([PDF - 2.0MB]({{< baseurl >}}/resources/mit6_831s11_lec17))
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -234,7 +234,7 @@ Prototyping
 Graphic design
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 1.7MB]({{< baseurl >}}/resources/mit6_831s11_lec18))
+([PDF - 1.7MB]({{< baseurl >}}/resources/mit6_831s11_lec18))
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -246,7 +246,7 @@ Graphic design
 Information visualization
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 1.4MB]({{< baseurl >}}/resources/mit6_831s11_lec19))
+([PDF - 1.4MB]({{< baseurl >}}/resources/mit6_831s11_lec19))
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -258,7 +258,7 @@ Information visualization
 Color design and typography
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 1.7MB]({{< baseurl >}}/resources/mit6_831s11_lec20))
+([PDF - 1.7MB]({{< baseurl >}}/resources/mit6_831s11_lec20))
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -270,7 +270,7 @@ Color design and typography
 Accessibility
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 1.0MB]({{< baseurl >}}/resources/mit6_831s11_lec21))
+([PDF - 1.0MB]({{< baseurl >}}/resources/mit6_831s11_lec21))
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -282,7 +282,7 @@ Accessibility
 Internationalization
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 1.1MB]({{< baseurl >}}/resources/mit6_831s11_lec22))
+([PDF - 1.1MB]({{< baseurl >}}/resources/mit6_831s11_lec22))
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -294,7 +294,7 @@ Internationalization
 Heuristic evaluation
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 1.2MB]({{< baseurl >}}/resources/mit6_831s11_lec23))
+([PDF - 1.2MB]({{< baseurl >}}/resources/mit6_831s11_lec23))
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -306,7 +306,7 @@ Heuristic evaluation
 Animation
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 1.1MB]({{< baseurl >}}/resources/mit6_831s11_lec24))
+([PDF - 1.1MB]({{< baseurl >}}/resources/mit6_831s11_lec24))
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -318,7 +318,7 @@ Animation
 Input/output technology
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 2.9MB]({{< baseurl >}}/resources/mit6_831s11_lec25))
+([PDF - 2.9MB]({{< baseurl >}}/resources/mit6_831s11_lec25))
 {{< tdclose >}}
 
 {{< trclose >}}

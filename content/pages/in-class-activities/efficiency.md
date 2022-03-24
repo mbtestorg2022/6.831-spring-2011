@@ -125,4 +125,4 @@ Time: 
 
 *   Card, Moran, & Newell, "[The keystroke-level model for user performance time with interactive systems](http://doi.acm.org/10.1145/358886.358895)," _CACM_, July 1980.
 *   Card, Moran, & Newell, _The Psychology of Human-Computer Interaction_, CRC, 1986.
-*   Kieras, David, "![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Using the Keystroke-Level Model to Estimate Execution Times, (PDF)](http://www.cs.loyola.edu/~lawrie/CS774/S06/homework/klm.pdf)" 2001.
+*   Kieras, David, "[Using the Keystroke-Level Model to Estimate Execution Times, (PDF)](http://www.cs.loyola.edu/~lawrie/CS774/S06/homework/klm.pdf)" 2001.
